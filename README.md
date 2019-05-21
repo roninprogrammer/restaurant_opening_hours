@@ -1,4 +1,4 @@
-# Opening 
+# Opening Hours Restaurant
 
 ## Requirement 
 The attached CSV data file has a list of restaurants and their hours of openings.  Create a list view (or a recycler view) in an mobile application that loads this data locally from the app package and displays the restaurant name and the hours of its opening.   You could use external libraries if needed such as CSV parser.
